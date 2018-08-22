@@ -1,0 +1,48 @@
+.container {
+    max-width: 1400px;
+    border: 1px solid rgba(177, 201, 213, 0.803);
+    background-color: lavender;
+    
+}
+.headercol{
+
+    margin-left:-15px;
+    margin-right:-15px;
+}
+#headernav{
+    width:1399px;
+}
+.tblsection{
+    border: 1px rgba(136, 154, 189, 0.275) solid;
+    padding-bottom: 20px;
+}
+
+
+#headline{
+   background-color:rgba(136, 154, 189, 0.275);
+}
+
+.btnnew{
+    float: right;
+}
+
+.bttnadd{
+    float: right;
+}
+
+#btnplaceorder{
+    float: right;
+}
+
+#itemfooter{
+    text-align: center;
+}
+#orderfooter{
+    text-align: center;
+}
+
+
+img{
+    width:30px;
+    height: 30px;
+}
